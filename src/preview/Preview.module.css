@@ -1,0 +1,15 @@
+.updatebtn {
+  background-color: purple !important;
+  border: purple !important;
+}
+.updatebtn:hover,
+.updatebtn:focus {
+  box-shadow: 0 0 0 0.25rem rgb(221, 166, 221) !important;
+}
+
+.frame {
+  border: 8px solid black;
+  padding: 3px;
+  height: 400px;
+  width: 400px;
+}

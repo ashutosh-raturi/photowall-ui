@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.banner
+{
+    font-family: 'Pacifico', cursive;
+}
+.submitbtn
+{
+    background-color: purple !important;
+    border: purple !important;
+}
+.submitbtn:hover, .submitbtn:focus
+{
+    box-shadow: 0 0 0 0.25rem rgb(221, 166, 221) !important;
+}
